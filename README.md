@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer skilled in JavaScript, React, Redux , RTK and Tailwind CSS. 
+Front-End Developer skilled in JavaScript, React, React Query, React Router Dom, Redux , RTK and Tailwind CSS.
 
 
 ## 🌐 Socials:
